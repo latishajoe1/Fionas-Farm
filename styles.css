@@ -211,14 +211,7 @@ footer ul li {
     margin-bottom: 5px;
 }
 
-.footer-bottom {
-    border-top: 2px solid var(--color); 
-    padding-top: 10px; 
-}
-
-.footer-bottom p {
-    font-size: 0.9em; 
-}  
+ 
 
 /*--Media Query Medium --*/
 
